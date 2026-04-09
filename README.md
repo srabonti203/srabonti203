@@ -36,13 +36,19 @@ I’m a passionate **Web Developer** focused on crafting clean UI and efficient 
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=srabonti203&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Srabonti's GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srabonti203&layout=compact&langs_count=7&theme=tokyonight" alt="Srabonti's Top Languages" />
+  <!-- GitHub Readme Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=srabonti203&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="150" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srabonti203&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srabonti203&theme=tokyonight" alt="Srabonti's Streak" />
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srabonti203&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
