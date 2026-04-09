@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there! I'm Srabonti Akter Bithi 👋
 
-<!--
-**srabonti203/srabonti203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://github.com/srabonti203/srabonti203/raw/main/banner.png) 
+<!-- Note: You can use your new navy headshot here or a custom tech banner -->
 
-Here are some ideas to get you started:
+### 🚀 About Me
+I’m a passionate **Web Developer** focused on crafting clean UI and efficient code. I love working with the modern web stack to build responsive and user-friendly applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on enhancing my frontend projects.
+- 🌱 I’m currently learning **Next.js** and Server-side rendering.
+- 👯 I’m looking to collaborate on frontend and open-source projects.
+- ⚡ Fun fact: I enjoy blending hardware logic with software creativity.
+
+---
+
+### 🛠️ My Tech Stack
+
+**Languages & Frameworks**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,react,nextjs" />
+</p>
+
+**Tools & Others**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+### 📂 Featured Projects
+
+*   **[DigiTools Platform](https://github.com/srabonti203/digiTools-platform)** - A comprehensive platform for digital utilities.
+*   **[GitHub Issue Tracker](https://github.com/srabonti203/A5_gitHub_issue_tracker)** - Efficiently managing and tracking repository issues.
+*   **[English Janala](https://github.com/srabonti203/english_janala)** - A dedicated project for language learning and resources.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=srabonti203&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srabonti203&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Srabonti" height="30" width="40" /></a>
+<a href="https://twitter.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Srabonti" height="30" width="40" /></a>
+</p>
