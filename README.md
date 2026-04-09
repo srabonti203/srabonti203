@@ -1,6 +1,6 @@
 # Hi there! I'm Srabonti Akter Bithi 👋
 
-![Banner]([https://github.com/srabonti203/srabonti203/raw/main/banner.png](https://i.ibb.co.com/84B22ZKG/Black-and-Yellow-Web-Developer-Linked-In-Banner.png)) 
+![Banner](https://i.ibb.co.com/84B22ZKG/Black-and-Yellow-Web-Developer-Linked-In-Banner.png)
 
 ### 🚀 About Me
 I’m a passionate **Web Developer** focused on crafting clean UI and efficient code. I love working with the modern web stack to build responsive and user-friendly applications.
